@@ -4,7 +4,7 @@
 
 > This project is a sample website for any conference.
 
-![screenshot](../images/screenshot.png)
+![screenshot](./images/screenshot.png)
 
 To cap off the HTML/CSS part of Microverse Technical Curriculum, I was given [this design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) of [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)'s to follow, mirroring its structure, typography and colors as I built my own conference website. The website is built mirroring the afore-mentioned features in its exact entirety. 
 
